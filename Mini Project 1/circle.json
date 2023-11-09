@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Start From Scratch",
+      "author": "typicode",
+      "date":  "8-11-2023",
+      "picture":"",
+      "video":""
+    
+    }],
+
+  "comments": [
+    {
+      "id": 2,
+      "title": "Painting With Me",
+      "author": "typicode",
+      "date":  "8-08-2023",
+      "video": "https://cms-public-artifacts.artlist.io/content/artgrid/footage-graded-thumbnail/055f956294_1163302_0-second_w800px.jpeg"
+    }
+  ],
+
+  "user-reactions": [
+    {
+      "id": 3,
+      "title": "Bruuummm!",
+      "author": "typicode",
+      "date":"8-12-2023",
+      "video":""
+    }
+  ],
+
+  "stories": [
+    {
+      "id": 1,
+      "title": "Stories1",
+      "author": "typicode",
+      "date":"8-11-2023",
+      "picture":"bannerImage.png",
+      "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    
+    }, 
+    {
+      "id": 2,
+      "title": "Stories2",
+      "author": "typicode",
+      "date":"8-11-2023",
+      "picture":"kids-magnifying-glass.jpg",
+      "video":"https://v4.cdnpk.net/videvo_files/video/free/video0476/large_watermarked/_import_6234166f4b3e06.74160318_FPpreview.mp4"
+    
+    }
+  ],
+
+    "profile": [
+      {
+      "id": 1,
+        "title": "json-server",
+        "author": "typicode",
+        "date":"8-11-2023",
+        "picture":"",
+        "video":""
+        } ]
+  }
+
+
+ 
